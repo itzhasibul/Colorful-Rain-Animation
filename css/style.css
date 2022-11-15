@@ -17,8 +17,8 @@ i {
     background: linear-gradient(transparent, #fff);
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    animation: animate 5s linear infinite;
-    -webkit-animation: animate 5s linear infinite;
+    animation: animate 4s linear infinite;
+    -webkit-animation: animate 4s linear infinite;
 }
 
 i:nth-child(3n+1) {
